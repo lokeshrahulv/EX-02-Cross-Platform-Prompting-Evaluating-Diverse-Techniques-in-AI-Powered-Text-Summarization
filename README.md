@@ -75,7 +75,7 @@ Since you've been browsing fitness gear and purchased a yoga mat, we recommend i
 |---------------------|----------------|----------------|
 | Relevance           |  High         |  High         |
 | Coherence           |  Natural      |  Natural      |
-| Customization Depth |  Detailed     | ⚠ Moderate     |
+| Customization Depth |  Detailed     |  Moderate     |
 | Responsiveness      |  Fast         |  Fast         |
 | Tone                |  Friendly     |  Friendly     |
 
@@ -140,7 +140,7 @@ Since you've been browsing fitness gear and purchased a yoga mat, we recommend i
 |---------------------|----------------|----------------|
 | Relevance           |  Strong       |  Strong       |
 | Coherence           |  Good         |  Good         |
-| Customization Depth | ⚠ Moderate   |  High         |
+| Customization Depth |  Moderate   |  High         |
 | Responsiveness      |  Fast         |  Fast         |
 | Tone                |  Friendly     |  Friendly     |
 
